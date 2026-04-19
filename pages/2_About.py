@@ -18,7 +18,7 @@ I am currently looking for an internship in Trading or Structuring starting from
 
 Feel free to connect:
 
-email: samuel.bokobza@ehdec.com
+email: samuel.bokobza@edhec.com
 
 linkedin: https://www.linkedin.com/in/samuel-bokobza-8249772b7/
 
