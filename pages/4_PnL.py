@@ -11,7 +11,7 @@ if st.button("←"):
 col1,_,col2 = st.columns([6,1,1])
 with col1:
 
-    st.subheader("Here are the reminder of current spot and volatility")
+    st.subheader("Spot and Volatility Overview")
 with col2:
     @st.dialog("Quick Info")
     def show_quick_info():
